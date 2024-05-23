@@ -25,7 +25,6 @@ WHITEONBLACK
 
 AYUV
 bak
-Bcl
 exa
 exabyte
 Gbits

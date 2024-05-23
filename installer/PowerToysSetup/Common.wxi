@@ -15,7 +15,7 @@
   <?define MeasureToolProjectName="MeasureTool"?>
   <?define HostsProjectName="Hosts"?>
   <?define MouseWithoutBordersProjectName="MouseWithoutBorders"?>
-  <?define AdvancedPasteProjectName="AdvancedPaste"?>
+  <?define PastePlainProjectName="PastePlain"?>
   <?define RegistryPreviewProjectName="RegistryPreview"?>
   <?define PeekProjectName="Peek"?>
   

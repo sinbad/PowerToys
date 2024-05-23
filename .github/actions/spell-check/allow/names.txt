@@ -10,6 +10,7 @@ markdownpreviewhandler
 mousewithoutborders
 mwb
 oobe
+pasteplain
 poweraccent
 powerlauncher
 POWEROCR
@@ -143,7 +144,6 @@ Controlz
 cortana
 fancymouse
 firefox
-gpt
 Inkscape
 Markdig
 modernwpf
@@ -152,7 +152,6 @@ mozilla
 mspaint
 Newtonsoft
 onenote
-openai
 Quickime
 regedit
 roslyn

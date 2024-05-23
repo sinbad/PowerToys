@@ -124,9 +124,9 @@ namespace winrt::PowerToys::GPOWrapper::implementation
     {
         return static_cast<GpoRuleConfigured>(powertoys_gpo::getConfiguredTextExtractorEnabledValue());
     }
-    GpoRuleConfigured GPOWrapper::GetConfiguredAdvancedPasteEnabledValue()
+    GpoRuleConfigured GPOWrapper::GetConfiguredPastePlainEnabledValue()
     {
-        return static_cast<GpoRuleConfigured>(powertoys_gpo::getConfiguredAdvancedPasteEnabledValue());
+        return static_cast<GpoRuleConfigured>(powertoys_gpo::getConfiguredPastePlainEnabledValue());
     }
     GpoRuleConfigured GPOWrapper::GetConfiguredVideoConferenceMuteEnabledValue()
     {

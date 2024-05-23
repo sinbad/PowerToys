@@ -38,7 +38,7 @@ namespace winrt::PowerToys::GPOWrapper::implementation
         static GpoRuleConfigured GetConfiguredScreenRulerEnabledValue();
         static GpoRuleConfigured GetConfiguredShortcutGuideEnabledValue();
         static GpoRuleConfigured GetConfiguredTextExtractorEnabledValue();
-        static GpoRuleConfigured GetConfiguredAdvancedPasteEnabledValue();
+        static GpoRuleConfigured GetConfiguredPastePlainEnabledValue();
         static GpoRuleConfigured GetConfiguredVideoConferenceMuteEnabledValue();
         static GpoRuleConfigured GetConfiguredPeekEnabledValue();
         static GpoRuleConfigured GetDisableNewUpdateToastValue();

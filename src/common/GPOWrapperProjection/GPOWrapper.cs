@@ -47,9 +47,9 @@ namespace PowerToys.GPOWrapperProjection
             return (GpoRuleConfigured)PowerToys.GPOWrapper.GPOWrapper.GetConfiguredTextExtractorEnabledValue();
         }
 
-        public static GpoRuleConfigured GetConfiguredAdvancedPasteEnabledValue()
+        public static GpoRuleConfigured GetConfiguredPastePlainEnabledValue()
         {
-            return (GpoRuleConfigured)PowerToys.GPOWrapper.GPOWrapper.GetConfiguredAdvancedPasteEnabledValue();
+            return (GpoRuleConfigured)PowerToys.GPOWrapper.GPOWrapper.GetConfiguredPastePlainEnabledValue();
         }
 
         public static GpoRuleConfigured GetConfiguredPeekEnabledValue()

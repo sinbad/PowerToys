@@ -45,9 +45,7 @@
                 "PowerToys.PowerOCR.dll",
                 "PowerToys.PowerOCR.exe",
 
-                "PowerToys.AdvancedPasteModuleInterface.dll",
-                "WinUI3Apps\\PowerToys.AdvancedPaste.exe",
-                "WinUI3Apps\\PowerToys.AdvancedPaste.dll",
+                "PowerToys.PastePlainModuleInterface.dll",
 
                 "PowerToys.AwakeModuleInterface.dll",
                 "PowerToys.Awake.exe",
@@ -305,7 +303,6 @@
                 "MessagePack.Annotations.dll",
                 "MessagePack.dll",
                 "Nerdbank.Streams.dll",
-                "WinUI3Apps\\ReverseMarkdown.dll",
                 "WinUI3Apps\\SharpCompress.dll",
                 "WinUI3Apps\\ZstdSharp.dll",
                 "ColorCode.Core.dll", 
